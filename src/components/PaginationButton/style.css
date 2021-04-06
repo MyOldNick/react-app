@@ -1,0 +1,18 @@
+.posts-pagination-button {
+    width: 50px;
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.posts-pagination-button-active {
+    background-color: rgb(31, 187, 78);
+    color: white;
+}
+
+.posts-pagination-button-disabled {
+    background-color: rgb(168, 167, 167);
+    color: black
+}

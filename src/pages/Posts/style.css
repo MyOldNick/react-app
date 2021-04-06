@@ -1,0 +1,16 @@
+.posts-pagination {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 20px auto;
+}
+
+.posts-cards-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.posts-end {
+    text-align: center;
+}
